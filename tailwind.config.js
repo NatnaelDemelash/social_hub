@@ -41,8 +41,8 @@ module.exports = {
         465: "465px",
       },
       fontFamily: {
-        roboto: ["Roboto Mono", "monospace"],
         inter: ["Inter", "sans-serif"],
+        roboto: ["Roboto Mono", "monospace"],
       },
       keyframes: {
         "accordion-down": {
